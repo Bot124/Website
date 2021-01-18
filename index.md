@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ecademy Academy NSW
 
-You can use the [editor on GitHub](https://github.com/Bot124/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are the acadwmy that looks out for one another this is a time and place, to show off your amazing dancing skills to our professional dance instructors I think your ready for this task.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
